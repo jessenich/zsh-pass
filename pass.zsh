@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/env zsh
 
 if ! builtin command -v pass >/dev/null; then
